@@ -1,0 +1,455 @@
+{
+  "generated_at": "2026-01-13T19:35:14.676544",
+  "total_count": 27,
+  "warnings": [
+    {
+      "file": "mmexport1754480169578.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1757394176503.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1754480108631.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1755916764002.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1754480152307.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1755764025207.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1754480184609.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1754480165391.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1755916761690.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1757394191462.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1757394174798.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1756379815074.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1767793434970.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1755764022318.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1754480187969.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1757394179873.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1757394189801.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1757394210928.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1756004981441.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1754480167398.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1757394182071.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1756489501298.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1761106769480.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1757394226585.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    },
+    {
+      "file": "mmexport1757394183751.jpg",
+      "issue": "NO_EXIF",
+      "fallback": "FILENAME_TIMESTAMP"
+    }
+  ],
+  "artworks": [
+    {
+      "id": "artwork_001",
+      "filename": "mmexport1767793434970.jpg",
+      "path": "images/mmexport1767793434970.jpg",
+      "timestamp": 1767793434970,
+      "date_display": "2026年01月07日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "乐",
+      "content": "乐"
+    },
+    {
+      "id": "artwork_002",
+      "filename": "mmexport1761106769480.jpg",
+      "path": "images/mmexport1761106769480.jpg",
+      "timestamp": 1761106769480,
+      "date_display": "2025年10月22日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "未命名作品"
+    },
+    {
+      "id": "artwork_003",
+      "filename": "mmexport1757394226585.jpg",
+      "path": "images/mmexport1757394226585.jpg",
+      "timestamp": 1757394226585,
+      "date_display": "2025年09月09日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "幅遥永",
+      "content": "幅遥永"
+    },
+    {
+      "id": "artwork_004",
+      "filename": "mmexport1757394210928.jpg",
+      "path": "images/mmexport1757394210928.jpg",
+      "timestamp": 1757394210928,
+      "date_display": "2025年09月09日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "傅傅",
+      "content": "傅傅"
+    },
+    {
+      "id": "artwork_005",
+      "filename": "mmexport1757394191462.jpg",
+      "path": "images/mmexport1757394191462.jpg",
+      "timestamp": 1757394191462,
+      "date_display": "2025年09月09日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "未命名作品"
+    },
+    {
+      "id": "artwork_006",
+      "filename": "mmexport1757394189801.jpg",
+      "path": "images/mmexport1757394189801.jpg",
+      "timestamp": 1757394189801,
+      "date_display": "2025年09月09日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "态入形通",
+      "content": "态入形通"
+    },
+    {
+      "id": "artwork_007",
+      "filename": "mmexport1757394183751.jpg",
+      "path": "images/mmexport1757394183751.jpg",
+      "timestamp": 1757394183751,
+      "date_display": "2025年09月09日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "未命名作品"
+    },
+    {
+      "id": "artwork_008",
+      "filename": "mmexport1757394182071.jpg",
+      "path": "images/mmexport1757394182071.jpg",
+      "timestamp": 1757394182071,
+      "date_display": "2025年09月09日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "江雪",
+      "content": "灭",
+      "poem_source": {
+        "found": true,
+        "title": "江雪",
+        "author": "柳宗元"
+      }
+    },
+    {
+      "id": "artwork_009",
+      "filename": "mmexport1757394179873.jpg",
+      "path": "images/mmexport1757394179873.jpg",
+      "timestamp": 1757394179873,
+      "date_display": "2025年09月09日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "人叹如事潮",
+      "content": "人叹如事潮"
+    },
+    {
+      "id": "artwork_010",
+      "filename": "mmexport1757394176503.jpg",
+      "path": "images/mmexport1757394176503.jpg",
+      "timestamp": 1757394176503,
+      "date_display": "2025年09月09日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "你 而色我等",
+      "content": "你 而色我等"
+    },
+    {
+      "id": "artwork_011",
+      "filename": "mmexport1757394174798.jpg",
+      "path": "images/mmexport1757394174798.jpg",
+      "timestamp": 1757394174798,
+      "date_display": "2025年09月09日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "震竭绝君知",
+      "content": "震竭绝君知"
+    },
+    {
+      "id": "artwork_012",
+      "filename": "mmexport1756489501298.jpg",
+      "path": "images/mmexport1756489501298.jpg",
+      "timestamp": 1756489501298,
+      "date_display": "2025年08月30日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "山 |岭",
+      "content": "山 |岭"
+    },
+    {
+      "id": "artwork_013",
+      "filename": "mmexport1756379815074.jpg",
+      "path": "images/mmexport1756379815074.jpg",
+      "timestamp": 1756379815074,
+      "date_display": "2025年08月28日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "自天尽",
+      "content": "自天尽"
+    },
+    {
+      "id": "artwork_014",
+      "filename": "mmexport1756004981441.jpg",
+      "path": "images/mmexport1756004981441.jpg",
+      "timestamp": 1756004981441,
+      "date_display": "2025年08月24日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "千鸯",
+      "content": "千鸯"
+    },
+    {
+      "id": "artwork_015",
+      "filename": "mmexport1755916764002.jpg",
+      "path": "images/mmexport1755916764002.jpg",
+      "timestamp": 1755916764002,
+      "date_display": "2025年08月23日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "未命名作品"
+    },
+    {
+      "id": "artwork_016",
+      "filename": "mmexport1755916761690.jpg",
+      "path": "images/mmexport1755916761690.jpg",
+      "timestamp": 1755916761690,
+      "date_display": "2025年08月23日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "非居是高圆直",
+      "content": "非居是高圆直"
+    },
+    {
+      "id": "artwork_017",
+      "filename": "mmexport1755764025207.jpg",
+      "path": "images/mmexport1755764025207.jpg",
+      "timestamp": 1755764025207,
+      "date_display": "2025年08月21日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "弄懒处妆起_来去来迟",
+      "content": "弄懒处妆起_来去来迟眉"
+    },
+    {
+      "id": "artwork_018",
+      "filename": "mmexport1755764022318.jpg",
+      "path": "images/mmexport1755764022318.jpg",
+      "timestamp": 1755764022318,
+      "date_display": "2025年08月21日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "未命名作品"
+    },
+    {
+      "id": "artwork_019",
+      "filename": "IMG_20250806_193844.jpg",
+      "path": "images/IMG_20250806_193844.jpg",
+      "timestamp": 1754480324000,
+      "date_display": "2025年08月06日",
+      "time_source": "EXIF_DATETIME",
+      "confidence": "HIGH",
+      "issues": null,
+      "title": "人上若方彩知虹有乡",
+      "content": "人上若方彩知虹有乡"
+    },
+    {
+      "id": "artwork_020",
+      "filename": "IMG_20250806_193813.jpg",
+      "path": "images/IMG_20250806_193813.jpg",
+      "timestamp": 1754480293000,
+      "date_display": "2025年08月06日",
+      "time_source": "EXIF_DATETIME",
+      "confidence": "HIGH",
+      "issues": null,
+      "title": "有有 途八似方",
+      "content": "有有 途八似方"
+    },
+    {
+      "id": "artwork_021",
+      "filename": "mmexport1754480187969.jpg",
+      "path": "images/mmexport1754480187969.jpg",
+      "timestamp": 1754480187969,
+      "date_display": "2025年08月06日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "满|十堂干剑花客霜州",
+      "content": "满|十堂干剑花客霜州醉"
+    },
+    {
+      "id": "artwork_022",
+      "filename": "mmexport1754480184609.jpg",
+      "path": "images/mmexport1754480184609.jpg",
+      "timestamp": 1754480184609,
+      "date_display": "2025年08月06日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "大同扶九匕",
+      "content": "大同扶九匕"
+    },
+    {
+      "id": "artwork_023",
+      "filename": "mmexport1754480169578.jpg",
+      "path": "images/mmexport1754480169578.jpg",
+      "timestamp": 1754480169578,
+      "date_display": "2025年08月06日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "畸逐知卟月情",
+      "content": "畸逐知卟月情"
+    },
+    {
+      "id": "artwork_024",
+      "filename": "mmexport1754480167398.jpg",
+      "path": "images/mmexport1754480167398.jpg",
+      "timestamp": 1754480167398,
+      "date_display": "2025年08月06日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "未命名作品"
+    },
+    {
+      "id": "artwork_025",
+      "filename": "mmexport1754480165391.jpg",
+      "path": "images/mmexport1754480165391.jpg",
+      "timestamp": 1754480165391,
+      "date_display": "2025年08月06日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "{一",
+      "content": "{一"
+    },
+    {
+      "id": "artwork_026",
+      "filename": "mmexport1754480152307.jpg",
+      "path": "images/mmexport1754480152307.jpg",
+      "timestamp": 1754480152307,
+      "date_display": "2025年08月06日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "凤",
+      "content": "凤"
+    },
+    {
+      "id": "artwork_027",
+      "filename": "mmexport1754480108631.jpg",
+      "path": "images/mmexport1754480108631.jpg",
+      "timestamp": 1754480108631,
+      "date_display": "2025年08月06日",
+      "time_source": "FILENAME_TIMESTAMP",
+      "confidence": "MEDIUM",
+      "issues": null,
+      "title": "未命名作品"
+    }
+  ]
+}

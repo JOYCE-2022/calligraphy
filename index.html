@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>凯晗书画作品集</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <h1>凯晗书画作品集</h1>
+            <p class="subtitle">记录书法成长的每一步</p>
+        </div>
+        <div class="header-stats" id="stats"></div>
+    </header>
+
+    <nav class="timeline-nav" id="timeline-nav"></nav>
+
+    <main class="main-content">
+        <div class="artworks-container" id="artworks-container">
+            <div class="loading">加载中...</div>
+        </div>
+    </main>
+
+    <dialog id="artwork-modal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close" id="modal-close">&times;</button>
+            <div class="modal-body">
+                <div class="modal-image-container">
+                    <img id="modal-image" src="" alt="作品大图">
+                </div>
+                <div class="modal-info">
+                    <div class="modal-date" id="modal-date"></div>
+                    <div class="modal-source" id="modal-source"></div>
+                    <div class="modal-comments-section">
+                        <h3>作品标题 / 评论</h3>
+                        <p class="comment-hint">第一条评论将作为作品标题显示</p>
+                        <div class="comments-list" id="modal-comments"></div>
+                        <div class="comment-form">
+                            <textarea id="comment-input" placeholder="输入作品标题或评论..."></textarea>
+                            <button id="add-comment-btn">保存</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </dialog>
+
+    <footer class="footer">
+        <p>凯晗书画作品集 | 记录成长轨迹</p>
+    </footer>
+
+    <script src="assets/app.js"></script>
+</body>
+</html>
